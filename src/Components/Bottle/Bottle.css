@@ -2,6 +2,8 @@
     border: 2px solid greenyellow;
     border-radius: 15px;
     padding: 15px;
+    background-color: rgb(87, 84, 84);
+    margin: 15px;
 }
 .bottle img{
     width: 200px;
